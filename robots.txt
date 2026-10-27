@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clube-do-mergulho-joao-pessoa.vercel.app/sitemap.xml
