@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /api/
 Sitemap: https://clube-do-mergulho-joao-pessoa.vercel.app/sitemap.xml

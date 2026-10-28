@@ -1,0 +1,8 @@
+{
+  "name": "clube-do-mergulho-joao-pessoa",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/blob": "^1.0.0"
+  }
+}
